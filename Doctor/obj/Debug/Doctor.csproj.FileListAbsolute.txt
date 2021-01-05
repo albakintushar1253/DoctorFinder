@@ -1,0 +1,58 @@
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.Login.resources
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.Properties.Resources.resources
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\Doctor.exe.config
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\Doctor.exe
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\Doctor.pdb
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.exe
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.pdb
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.RegAs.resources
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.DoctorReg.resources
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.PatientRegistration.resources
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\source\repos\Doctor\Doctor\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.csproj.CopyComplete
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.DoctorProfile.resources
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.PatientProfile.resources
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.Search.resources
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.Email.resources
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.Appointment.resources
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.ShowAppointment.resources
+C:\Users\User\source\repos\Doctor\Doctor\obj\Debug\Doctor.AppointmentStatus.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\Doctor.exe.config
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\Doctor.exe
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\Doctor.pdb
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\System.Security.AccessControl.dll
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\System.Security.Permissions.dll
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\System.Security.Principal.Windows.dll
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\System.Security.AccessControl.xml
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\System.Security.Permissions.xml
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\bin\Debug\System.Security.Principal.Windows.xml
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.csprojAssemblyReference.cache
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.Appointment.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.AppointmentStatus.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.DoctorProfile.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.DoctorReg.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.Email.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.Login.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.PatientProfile.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.PatientRegistration.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.Properties.Resources.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.RegAs.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.Search.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.ShowAppointment.resources
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.csproj.GenerateResource.cache
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.csproj.CoreCompileInputs.cache
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.csproj.CopyComplete
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.exe
+D:\important !\Study\AIUB\10th semister\C#\Final Project\Final\Doctor Finder\Doctor\obj\Debug\Doctor.pdb
